@@ -1,0 +1,10 @@
+1#My experiments with Truth#Mahatma M.K.Gandhi#G#
+2#Far from the Madding Crowd#Thomas Hardy#G#
+3#Geetanjali#Rabindra Nath Tagore#G#
+4#One Day in the Life of Ivan Denisovitch#Alexander Solzhenitsyn#G#
+5#The Merchant of venice#William shakespeare#R#
+6#The Moon and Six pense#Somerset Maughan#R#
+7#Pilgrim's Progress from this world to that which is to come#John Bunyan#R#
+8#A Tale of Two Cities#Charles Dickens#G#
+9#Utopia#Sir Thomas Moor#G#
+10#Origin of species#charles Darwin#R#

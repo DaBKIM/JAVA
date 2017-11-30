@@ -5,8 +5,8 @@ import java.util.*;
 
 public class LibraryInfoSystem {
 	
-	private static final String BOOKSINPUTFILE ="/Users/DabinKIM/Documents/workspace/1_OOP_2015004375_KIM/src/OOP_assignment_3/booksinputfile.txt";
-	private static final String STUDENTSINPUTFILE ="/Users/DabinKIM/Documents/workspace/1_OOP_2015004375_KIM/src/OOP_assignment_3/studentsinputfile.txt"; 
+	private static final String BOOKSINPUTFILE ="/Users/DabinKIM/Desktop/for_git/JAVA/assignment_3/booksinutfile.txt";
+	private static final String STUDENTSINPUTFILE ="/Users/DabinKIM/Desktop/for_git/JAVA/assignment_3/studentsinputfile.txt";
 	private static HashMap<String,LibraryItem> Books;
 	private static HashMap<String,Student> Students;
 
